@@ -1,7 +1,7 @@
 {
     "title": "Groundwater Wells over Aquifers in the Midwest",
     "info": "Visualize the amount of groundwater wells installed over aquifers.", 
-    "Coordinates": [-92,43],
+    "Coordinates": [43, -92],
     "Author": "Ryan Lark", 
     "link": "https://ryan-lark.github.io/major-midwest-aquifers/" 
 }
